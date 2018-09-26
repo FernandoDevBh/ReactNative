@@ -38,7 +38,7 @@ Item.propTypes = {
 
 const styles = StyleSheet.create({
     item: {
-        backgroundColor: '#FFF'0,
+        backgroundColor: '#FFF',
         borderWidth: 0.5,
         borderColor: '#999',
         margin: 10,
